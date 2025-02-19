@@ -56,7 +56,5 @@ The app should now be running at `http://localhost:3000`.
 - Include more question categories.
 - Implement user authentication for saving scores.
 
-## License
-This project is licensed under the MIT License.
 
 ![image](https://github.com/user-attachments/assets/a2f3a306-c932-49b3-a5f0-43c783ba96ec)
